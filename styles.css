@@ -3,22 +3,21 @@
 }
 
 .name-tag {
-  border: 1px solid red;
-  border-radius: 6px;
+  border: 5px solid rgb(212, 208, 208);
+  border-radius: 0px;
   width: 300px;
   height: 150px;
   margin-bottom: 10px;
   background: red;
+  border-radius: 10px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .name-tag h1 {
   color: white;
   text-align: center;
-  border-radius: 6px;
-  width: 300px;
-  margin-bottom: 10px;
-  height: 150px;
+  margin: 5px 0px 0px 0px;
+  height: 20px;
 }
 
 .name-tag h2 {
@@ -27,12 +26,14 @@
   height: 25px;
 }
 
-.name-tag h3 {
+.name-tag p {
   position: relative;
   background: white;
   padding: 10px;
   text-align: center;
   left: 5px;
-  width: 290px;
-  height: 90px;
+  width: 280px;
+  height: 40px;
+  border-radius: 10px;
 }
+
