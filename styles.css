@@ -6,7 +6,7 @@
   border: 5px solid rgb(212, 208, 208);
   border-radius: 0px;
   width: 300px;
-  height: 150px;
+  height: 200px;
   margin-bottom: 10px;
   background: red;
   border-radius: 10px;
@@ -27,13 +27,14 @@
 }
 
 .name-tag p {
-  position: relative;
+  position: left;
   background: white;
-  padding: 10px;
+  padding: 20px;
   text-align: center;
   left: 5px;
-  width: 280px;
-  height: 40px;
-  border-radius: 10px;
+  width: 290px;
+  height: 70px;
+  border-radius: 0px;
+  font-size: 25px;
 }
 
