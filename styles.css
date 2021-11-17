@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+.name-tag {
+  border: 1px solid red;
+  border-radius: 6px;
+  width: 300px;
+  height: 150px;
+  margin-bottom: 10px;
+  background: red;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.name-tag h1 {
+  color: white;
+  text-align: center;
+  border-radius: 6px;
+  width: 300px;
+  margin-bottom: 10px;
+  height: 150px;
+}
+
+.name-tag h2 {
+  color: white;
+  text-align: center;
+  height: 25px;
+}
+
+.name-tag h3 {
+  position: relative;
+  background: white;
+  padding: 10px;
+  text-align: center;
+  left: 5px;
+  width: 290px;
+  height: 90px;
+}
